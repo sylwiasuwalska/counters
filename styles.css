@@ -1,0 +1,36 @@
+.app {
+	text-align: center;
+}
+
+.button {
+	margin: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.line {
+	margin: 0;
+}
+
+.container {
+	text-align: center;
+	color: #fff;
+	padding-top: 15vh;
+	height:49vh;
+}
+
+.topLeft {
+	background-color: #C7DDF5;
+}
+
+.topRight {
+	background-color: #FDC975;
+}
+
+.botLeft {
+	background-color: #278E8B;
+}
+
+.botRight {
+	background-color: #FE945A;
+}
