@@ -16,21 +16,21 @@
 	text-align: center;
 	color: #fff;
 	padding-top: 15vh;
-	height:50vh;
+	height: 50vh;
 }
 
 .topLeft {
-	background-color: #C7DDF5;
+	background-color: #c7ddf5;
 }
 
 .topRight {
-	background-color: #FDC975;
+	background-color: #fdc975;
 }
 
 .botLeft {
-	background-color: #278E8B;
+	background-color: #278e8b;
 }
 
 .botRight {
-	background-color: #FE945A;
+	background-color: #fe945a;
 }
